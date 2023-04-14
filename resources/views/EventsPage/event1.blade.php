@@ -1,1 +1,0 @@
-@extends('EventsPage.master4')

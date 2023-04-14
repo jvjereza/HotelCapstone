@@ -3,7 +3,7 @@
     @include('FrontEnd.toggle')
             <!-- END menu-toggle -->
 
-            <@include('FrontEnd.header')
+            @include('FrontEnd.header')
     <!-- END head -->
 
     @include('ContactPage.contact2')

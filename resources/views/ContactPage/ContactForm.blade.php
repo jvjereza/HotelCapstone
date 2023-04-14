@@ -38,9 +38,9 @@
         <div class="col-md-5" data-aos="fade-up" data-aos-delay="200">
           <div class="row">
             <div class="col-md-10 ml-auto contact-info">
-              <p><span class="d-block">Address:</span> <span> 98 West 21th Street, Suite 721 New York NY 10016</span></p>
-              <p><span class="d-block">Phone:</span> <span> (+1) 234 4567 8910</span></p>
-              <p><span class="d-block">Email:</span> <span> info@domain.com</span></p>
+              <p><span class="d-block">Address:</span> <span> Ortigas Avenue Kaytikling, Taytay, Rizal 1920</span></p>
+              <p><span class="d-block">Phone:</span> <span> (0945) 200 6542 </span></p>
+              <p><span class="d-block">Email:</span> <span> scorpionhotel@gmail.com</span></p>
             </div>
           </div>
         </div>

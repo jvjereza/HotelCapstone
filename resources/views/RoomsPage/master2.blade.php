@@ -13,6 +13,8 @@
     @include('RoomsPage.typeRoom');
     
     @include('RoomsPage.offers');
+
+    @include('AboutPage.reservesection')
     
     <!--Start Footer-->
     @yield('footer')
