@@ -18,10 +18,6 @@ class TemplateController extends Controller
       return view('Aboutpage.about1');
    }
 
-   public function events(){
-      return view('EventsPage.event1');
-   }
-
    public function contact(){
       return view('ContactPage.contact1');
    }

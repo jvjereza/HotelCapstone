@@ -20,8 +20,6 @@ Route::get("/room",[TemplateController::class,"room"]);
 
 Route::get("/about", [TemplateController::class,"about"]);
 
-Route::get("/events",[TemplateController::class,"events"]);
-
 Route::get("/contact",[TemplateController::class,"contact"]);
 
 Route::get("/reservation",[TemplateController::class,"reservation"]);
